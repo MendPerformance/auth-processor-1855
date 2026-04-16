@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: auth-processor-1855
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/auth-processor-1855
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
